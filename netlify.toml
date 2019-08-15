@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/apiLoft/live/*"
+  to = "https://lprda.lbfmarket.com/loftdrupal/v1/:splat"
+  status = 200
+  force = true  
+  [redirects.headers]
+    Accept = "*/*"
+    Cache-Control = "no-cache"
+    X-From_Test = "Netlify"
+  
