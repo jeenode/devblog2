@@ -7,5 +7,5 @@
     Accept = "*/*"
     Cache-Control = "no-cache"
     X-From_Test = "Netlify"
-    Client-IP =""
+    Client-IP ="0.0.0.0"
   
