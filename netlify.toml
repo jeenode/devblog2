@@ -6,6 +6,6 @@
   [redirects.headers]
     Accept = "*/*"
     Cache-Control = "no-cache"
-    X-From_Test = "Netlify"
+ 
   
   
