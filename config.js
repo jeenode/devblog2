@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Dev Blog', // Required
-  author: 'Carl Cheung', // Required
+  author: 'John Doe', // Required
   description: 'Solutions Architect',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
